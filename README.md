@@ -1,15 +1,13 @@
-# JiuDing-Sports
+# TouTiao-Sports
 
-JiuDing Sports is committed to promoting the most popular and professional stadium in the ancient city of Xi 'an, so that people in their daily life can be efficient and high-quality booking to their favorite sports arena. At the same time, it also allows you to easily record the score and match situation in the process of playing the ball.
+Toutiao Sports is an app for booking arena courts and learning rules and techniques of ball games. Our stadium environment is clean and tidy, professional sports facilities. You can book a satisfactory stadium on our app, and learn the knowledge points of skills and rules of various ball games, so that you will be more interested in ball games.
 
-Our app is an app to reserve the arena court and record the score. Our stadium environment is clean and tidy, professional sports facilities. You can book a satisfactory stadium on our app.
-
-Our app shows a variety of sports arenas, including volleyball arena, basketball arena, football arena, badminton arena, popular arena of the week and other arenas. These full range of sports arenas can meet the user's selection and reservation. Our app categorizes these stadiums in great detail to help users quickly find the stadiums they want to book.
+Our APP is dedicated to promoting the most popular and professional arena courts, so that people can make an efficient and high-quality appointment to their favorite arena in their daily life. Our app has classified these stadiums in great detail, including football field, basketball hall, football field, badminton hall, billiard club and other stadiums. These full range of courts can meet the user's selection and reservation.
 
 Our app will introduce each stadium in detail, so that you can fully understand these stadiums, find the stadiums you like, so that you can make reservations and place orders. At the same time, our app also has the collection function of sports arena. You can add your favorite sports arena to the list for your next browsing and ordering.
 
-Our app also has the score recording function. When you play ball in the arena, you can use our app to record the score and match situation conveniently and quickly, and you can also share the score and match situation with your friends.
+Our app also introduces the rules and skills of all kinds of ball games, so that you can learn all kinds of ball games, deepen your understanding of ball games, and you can also share the knowledge of ball games skills with others.
 
-The court no longer frustrated, good hall to help you!
+Make a reservation at a professional course and learn the rules and skills
 
 If you have any questions, please contact us as follows :w18384297018@163.com
