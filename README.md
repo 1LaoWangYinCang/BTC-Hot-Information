@@ -10,4 +10,4 @@ Our app also introduces the rules and skills of all kinds of ball games, so that
 
 Make a reservation at a professional course and learn the rules and skills
 
-If you have any questions, please contact us as follows :wtl18384297018@163,com
+If you have any questions, please contact us as follows :niang414609@icloud.com
