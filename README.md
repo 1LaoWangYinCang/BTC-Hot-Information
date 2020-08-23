@@ -10,4 +10,4 @@ Our app also introduces the rules and skills of all kinds of ball games, so that
 
 Ball games and speed racing are all here. Make an appointment!
 
-If you have any questions, please contact us as follows :wrueteh1476@sina.com
+If you have any questions, please contact us as follows :rogl082@163.com
