@@ -1,13 +1,14 @@
-# JiuDingQiuMiDaShi
+# WeiTanZhuanJia
+Micro exploration experts are committed to promoting the most popular and professional sports and fitness venues, so that people can make an efficient and high-quality appointment to their favorite sports and fitness venues in their daily life. At the same time can also learn a variety of ball games skills and rules of knowledge, so that you can more like ball games.
 
-JiuDingQiuMiDaShi is dedicated to promoting the most popular and professional venues for playing and racing, so that people can make an efficient and high-quality reservation to their favorite venues for playing and racing in their daily life. At the same time, you can also learn the skills and rules of various ball games knowledge points, so that you more like ball games.
+- Our app has classified these sports and fitness venues in great detail, including basketball arena, volleyball arena, badminton arena, rugby arena, gym in fitness area, yoga arena, boxing arena and other sports and fitness venues. These kinds of sports venues can meet the selection and reservation of users.
 
-Our app has a very detailed classification of these sports venues, including basketball arena, football arena, tennis arena and racing racecourse in the racing area, water rafting park, go-kart club and other sports venues. The full range of ball and racing venues can be selected and booked.
+- Our app will give a detailed introduction of each gymnasium, so that you can fully understand these gymnasiums and find the stadiums that you like, so that you can make an appointment and place an order.
 
-Our app will give you a detailed introduction of each venue for playing and racing, so that you can fully understand these venues and find your favorite venues, so that you can make an appointment and place an order. At the same time, our APP also has the function of collecting sports venues. You can add your favorite sports venues to the list, so that you can browse and place your order next time.
+- Our APP also has the function of collecting sports venues. You can add your favorite sports venues to the list, so that you can browse and place your order next time.
 
-Our app also introduces the rules and skills of all kinds of ball games, so that you can learn all kinds of ball games, deepen your understanding of ball games, and you can also share the knowledge of ball games skills with others.
+- Our app also introduces the rules and skills of various ball games, so that you can learn the knowledge points of various ball games, deepen your understanding of ball games, and you can also share the knowledge points of ball games skills with others.
 
-Ball games and speed racing are all here. Make an appointment!
+Book the venue, learn the tricks, and enjoy the sport
 
-If you have any questions, please contact us as follows :rogl082@163.com
+If you have any questions, please contact us as follows :nie681685@icloud.com
