@@ -1,15 +1,13 @@
-# SuBiFenZhuanJia
+# BTC Hot Information
 
-SuBiFenZhuanJia is an app for booking and recording racing scores. It is dedicated to promoting the most popular and professional racing venues, so that people can efficiently and high-quality book to their favorite racing venues in their daily life. At the same time, it can easily record the score of racing, record the scene and the feeling of the competition.
+BTC Hot Information enables digital currency enthusiasts to get the latest news, real-time news, common sense of digital currency, major events and industry information in the circle.
 
-Our app has classified these sports venues in great detail, including roller skating venues, go-kart club, water racing venues, speed skating venues and so on. A full range of venues can be selected and booked.
+-Our app also allows users to obtain real-time market information of various digital currencies, and to Book Lectures on digital currencies.
 
-Our app will give you a detailed introduction of each racing venue, so that you can fully understand these venues, find your favorite racing venues, and facilitate you to book an order.
+-Our app can put forward our own opinions on hot news information, share news information and collect news that we think is valuable.
 
-Our app also has the collection function of racing venues. You can add your favorite racing venues to the list for your next browsing and ordering.
+-Our app can express your opinions on digital currency in the topic circle, exchange your ideas with others, and understand everyone's views on digital currency, so that you can go deeper into this circle more thoroughly.
 
-Our app can record the score, record your race in the racing hall, record every race you have with your friends in the racing hall, and make you love racing more.
+Hot digital currency news at any time！
 
-Speed scoremaster - a good assistant for booking racing venues to keep track of speed scores.
-
-If you have any questions, please contact us as follows :tanyijiu938@163.com
+If you have any questions, please contact us as follows :staytoughtbjvthg@hotmail.com
